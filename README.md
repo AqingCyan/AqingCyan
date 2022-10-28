@@ -1,8 +1,8 @@
 # Hi! I'm AqingCyan 👋
 
 - I'm a software development.
-- Blog: https://aqingcyan.me
-- Email: AqingCyan@gmail.com
+- blog: https://aqingcyan.me.
+- email: AqingCyan@gmail.com.
 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/AqingCyan/count.svg)th visitor.
