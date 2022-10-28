@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=AqingCyan&show_icons=true&theme=cobalt)](https://github.com/AqingCyan/github-readme-stats)-->
 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqingCyan" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqingCyan&layout=compact&langs_count=8&theme=cobalt" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=AqingCyan&show_icons=true&theme=cobalt" align="center" />
 </div>  
 
