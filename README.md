@@ -8,8 +8,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/AqingCyan/count.sv
 
 My English is not very good. If you find any grammatical mistakes, please correct them. Thank you 🥰
 
-### About My Github
-
-<img height='170' src="https://github-readme-stats.vercel.app/api?username=AqingCyan&show_icons=true&theme=dark" align="left" />
-
-
